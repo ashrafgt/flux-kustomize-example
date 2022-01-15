@@ -3,5 +3,3 @@ kind: Kustomization
 namespace: example
 resources:
   - ./namespace.yaml
-  - ./nginx
-  - ./postgres
