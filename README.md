@@ -16,7 +16,7 @@
     flux bootstrap github \
         --owner=ashrafgt \
         --repository=flux-kustomize-example \
-        --branch=master \
+        --branch=develop \
         --network-policy=false \
         --path=clusters/development
     ```
