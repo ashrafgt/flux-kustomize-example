@@ -10,6 +10,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-system
-  path: ./apps/base
+  path: ./apps/overlays/development
   prune: true
   validation: client
